@@ -19,7 +19,7 @@ La aplicación verifica automáticamente las actualizaciones al iniciar.
 
 Para reportar problemas o solicitar funcionalidades, contacta con el equipo de desarrollo.
 
-## 📝 Changelog
+## Changelog
 
 **Versión 1.1.3** (2025-06-05)
 - Añadida limpieza automática de archivos con mas de X días
